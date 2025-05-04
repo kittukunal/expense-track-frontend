@@ -50,7 +50,6 @@ const TransactionDeleteModal = () => {
     } finally {
       await dispatch(setRefetch(false));
       dispatch(updateLoader(100));
-      window.location.reload()
     }
   };
 
