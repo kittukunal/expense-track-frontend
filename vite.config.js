@@ -11,7 +11,7 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
     proxy: {
       "/api/v1": {
-        target: "https://expense-track-backends.onrender.com",
+        target: "https://expense-track-backend-xb4k.onrender.com/",
         changeOrigin: true,
         secure: false, 
       },
