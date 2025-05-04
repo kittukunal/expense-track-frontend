@@ -44,6 +44,7 @@ const TransactionDeleteModal = () => {
             ? "Income deleted successfully!"
             : "Expense deleted successfully!")
       );
+      window.location.reload()
     } catch (error) {
       console.log(error);
       toast.error(error?.data?.error || "Unexpected Internal Server Error!");

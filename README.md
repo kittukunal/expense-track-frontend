@@ -1,12 +1,12 @@
-# Spend Smart Frontend
+# Expense Tracker Frontend
 
-Welcome to the frontend repository of Spend Smart - your ultimate tool for managing your finances effortlessly. This repository contains all the frontend code necessary to interact with the Spend Smart backend and provide users with a seamless financial management experience.
+Welcome to the frontend repository of Expense Tracker - your ultimate tool for managing your finances effortlessly. This repository contains all the frontend code necessary to interact with the Expense Tracker backend and provide users with a seamless financial management experience.
 
 <hr/>
 
 ## Getting Started
 
-Follow these steps to set up the Spend Smart frontend on your local machine:
+Follow these steps to set up the Expense Tracker frontend on your local machine:
 
 ### Prerequisites
 
@@ -16,7 +16,7 @@ Follow these steps to set up the Spend Smart frontend on your local machine:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/SaxenaShourya/spend-smart.git
+https://github.com/kittukunal/expense-track-frontend.git
 ```
 
 ### Frontend Setup
@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 
-- The development server will start running at http://localhost:8080, and you can access Spend Smart in your web browser.
+- The development server will start running at http://localhost:8080, and you can access in your web browser.
 
 <hr/>
 
@@ -63,11 +63,11 @@ npm run dev
 
 ## License:
 
-- Spend Smart is licensed under the [MIT License](../LICENSE).
+- Expense Tracker is licensed under the [MIT License](../LICENSE).
 
 <hr/>
 
 ## For more Content
 
-- For feedback and support, email us at saxenashourya000@gmail.com 📧
-- Follow me on [Linkedin](https://www.linkedin.com/in/shouryasaxena) for updates. 🔗
+- For feedback and support, email at kunalyadav8614@gmail.com 📧
+- Follow me on [Linkedin](https://www.linkedin.com/in/kunal-yadav-5062962a6/) for updates. 🔗
